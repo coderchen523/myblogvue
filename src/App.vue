@@ -398,11 +398,6 @@ a {
 .clearfix:after {
   clear: both
 }
-.smalltitle{
-    /*height:36px;*/
-    /*line-height: 36px;*/
-}
-
 .logoImg{
     width:160px;;
     height:50px;
